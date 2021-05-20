@@ -1,6 +1,6 @@
 # Fastdose
 
-Vous aide a trouver automatiquement des places pour vos doses.
+Vous aide à trouver des places disposponible pour avoir votre doses.
 
 ### CENTRE_URL
 
