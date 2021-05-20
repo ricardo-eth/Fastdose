@@ -1,9 +1,9 @@
-const { chromium, firefox, webkit } = require("playwright");
+const { chromium, firefox } = require("playwright");
 
 const CENTRE_URL =
   "https://www.doctolib.fr/vaccination-covid-19/paris/centre-de-vaccination-covid-19-ville-de-paris?highlight%5Bspeciality_ids%5D%5B%5D=5494&pid=practice-176642";
 
-const BROWSER = firefox;
+const BROWSER = chromium;
 
 const firstInjectionPfizerBioNTech =
   "1re injection vaccin COVID-19 (Pfizer-BioNTech)";
